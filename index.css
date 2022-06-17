@@ -15,6 +15,9 @@
   --cyan-process: #29b9f0ff;
   }
   
+  @media (prefers-reduced-motion:no-preference) {
+    *{ scroll-behavior: smooth;}
+  }
   
   .nav {
     padding: 0;
@@ -185,9 +188,4 @@
   
   .profile{
     padding-top: 120px;
-  }
-  
-  
-  @media (prefers-reduced-motion:no-preference) {
-    *{ scroll-behavior: smooth;}
   }
