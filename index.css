@@ -47,15 +47,15 @@
   }
 
 .nav time {
-  display: inline;
-  float: left;
-  color: var(--blue-crayola);
-  padding: 9px 16px;
-  top: -20%;
-  text-align: center;
-  text-decoration: none;
-  border-right: 1px solid black;
-  position: relative;
+   display: inline;
+    float: left;
+    color: var(--blue-crayola);
+    padding: 9px 16px;
+    top: -20%;
+    text-align: center;
+    text-decoration: none;
+    border-right: 1px solid black;
+    position: relative;
 }
   
   .nav a:hover {
