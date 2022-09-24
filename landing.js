@@ -40,7 +40,7 @@ function setBgGreet() {
       greeting.textContent = 'Good Afternoon, ';
     } else {
       // Evening
-      document.body.style.backgroundImage = "url('https://wallpaperaccess.com/full/2942563.jpg')";
+      document.body.style.backgroundImage = "url('https://wallpapercave.com/wp/wp7522142.jpg')";
       greeting.textContent = 'Good Evening, ';
       document.body.style.color = 'grey';
     }
