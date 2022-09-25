@@ -42,7 +42,6 @@ function setBgGreet() {
       // Evening
       document.body.style.backgroundImage = "url('https://wallpapercave.com/wp/wp7522142.jpg')";
       greeting.textContent = 'Good Evening, ';
-      document.body.style.color = 'grey';
     }
   }
 
